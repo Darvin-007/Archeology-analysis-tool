@@ -1,5 +1,7 @@
 # Acheology analysis tool
 
-This is an attemt for an tool, which analysises an archaeological finding trough an simple yes-no algorytm. It's programed with scratch to give future developers an idea of how to make something like that realisitic. We don't plan further developement, because we simply don't have the nessesary knowledge for such an project. 
+## This is an attemt for an tool, which analysises an archaeological finding trough an simple yes-no algorytm.
 
-<img width="2463" height="1258" alt="Program" src="https://github.com/user-attachments/assets/5a50a743-e6e9-4331-bed2-e685f139dfcc" />
+We don't plan further developement, because we simply don't have the nessesary knowledge for such an project. It's programed with scratch to give future developers an idea of how to make something like that realisitic.
+
+<img width="1609" height="1212" alt="Scratch Forschung Screenshot" src="https://github.com/user-attachments/assets/0ee439e6-9374-499e-a521-723a6dc1e860" />
